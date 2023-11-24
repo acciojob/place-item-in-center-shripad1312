@@ -1,8 +1,12 @@
 
 /* Your CSS Code here. */
 .holder{
+	height:100%;
+	width:100%;
 	display:flex;
+	
 	justify-content:center;
+	margin-top:50%;
 }
 .item{
 	background-color:red;
